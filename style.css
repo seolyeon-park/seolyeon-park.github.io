@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'CustomSans';
+    src: url('font/sans.ttf') format('truetype');
+}
+
+body {
+    margin: 30px;
+    font-family: 'CustomSans', sans-serif;
+    font-size: 15px;
+    line-height: 19px;
+}
